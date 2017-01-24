@@ -1,3 +1,3 @@
-# opennft.github.io
+# Open neurofeedback training
 
 Work in progress...
