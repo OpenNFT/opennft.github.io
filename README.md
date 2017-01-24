@@ -1,3 +1,3 @@
-# Open neurofeedback training
+# Open NeuroFeedback Training
 
 Work in progress...
