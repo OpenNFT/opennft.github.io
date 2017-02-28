@@ -1,5 +1,4 @@
 ---
-title: Introduction
 ---
 
 # Open Neuro Feedback Training
