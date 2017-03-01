@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="theme-base-0d sidebar-overlay">
+  <body class="theme-base-opennft">
 
     {% include sidebar.html %}
 
@@ -11,10 +11,14 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+
+        <div class="container" style="position:relative; height:72px;">
+<a href="{{ site.baseurl }}/" title="Home" style="margin-right:0px; float:right"><img src="{{ site.baseurl }}/public/img/logo_300px.png"></a>
+          <h3 class="masthead-title"  style="position: absolute; bottom: 0px;">
+
+              <!--a href="{{ site.baseurl }}/" title="Home" >{{ site.title }}</a-->
+              <!--small>{{ site.tagline }}</small-->
+
           </h3>
         </div>
       </div>

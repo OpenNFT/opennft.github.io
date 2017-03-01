@@ -60,10 +60,10 @@ h1, h2, h3, h4, h5, h6 {
  * regular page content.
  */
 
-.wrap {
+/*.wrap {
   position: relative;
   width: 100%;
-}
+}*/
 
 
 /*
@@ -514,6 +514,18 @@ a.pagination-item:hover {
 .theme-base-0d .sidebar-toggle,
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
+}
+
+/* OpenNFT */
+.theme-base-opennft .sidebar,
+.theme-base-opennft .sidebar-toggle:active,
+.theme-base-opennft #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #224499;
+}
+.theme-base-opennft .container a,
+.theme-base-opennft .sidebar-toggle,
+.theme-base-opennft .related-posts li a:hover {
+  color: #224499;
 }
 
 /* Magenta */
