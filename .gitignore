@@ -90,3 +90,5 @@ ENV/
 
 # Jekyll
 _site/
+
+.idea/
