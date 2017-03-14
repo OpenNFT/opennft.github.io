@@ -9,7 +9,7 @@ The minimum system requirements for OpenNFT are 8 Gb RAM, i5 CPU with 2 and 4 fr
 
 The recommended system configuration is 16 Gb RAM and i7 CPU with 4 free cores. The maximum number of Matlab processes is defined by the end-user and is limited by the local workstation capabilities. For detailled installation instructions, see the  installation manual.
 
-**[OpenNFT Installation manual v1.0 - 2017-03-14](https://github.com/OpenNFT/opennft.github.io/blob/master/OpenNFT_Manual_v1.0_%202017-03-14.pdf)**
+**[OpenNFT Installation manual v1.0 - 2017-03-14](https://github.com/OpenNFT/opennft.github.io/blob/master/OpenNFT_Manual_v1.0_2017-03-14.pdf)**
 
 
 
