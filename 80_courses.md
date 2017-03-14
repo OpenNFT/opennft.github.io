@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Training Courses and Development
 ---
 
-
-
-Please contact me.
+For concerns related to the OpenNFT training courses, neurofeedback research, and applications, contact Yury Koush (<yurykoush@gmail.com>).

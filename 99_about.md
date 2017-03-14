@@ -3,28 +3,24 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Contact
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+For software support, contact us at <opennft@gmail.com>.
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## References
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- For open-source OpenNFT code and applied real-time data processing and software features, cite Koush et al. 2017 (pending)
+- For SPM features, cite SPM12 (fil.ion.ucl.ac.uk/spm/)
+- For DCM features, cite used SPM/DCM release.
+- For incremental GLM, cite Bagarinao et. al. 2003, NeuroImage  
+- For connectivity-based feedback using DCM, cite Koush et al. 2013, NeuroImage; Koush et al. 2015, Cerebral Cortex.
+- For real-time signal processing using Kalman filter, cite Koush et al. 2012, NeuroImage
+- For sigmoidal function and SVM-based feedback, cite deBettencourt et al. 2015, NatNeuroscience
+- For feedback display based on PTB-3 functions, cite psychtoolbox.org
 
-## Setup
 
-Some fun facts about the setup of this project include:
+## Citations
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+1.	Koush Y., Ashburner J., Prilepin E., Sladky R., Zeidman P., Bibikov S., Frank Scharnowski F., Nikonorov A., Van De Ville D. (2017). OpenNFT: An open-source Python/Matlab framework for real-time fMRI neurofeedback training based on activity, connectivity and multivariate pattern analysis. (pending)
+2.	Koush Y., Ashburner J., Prilepin E., Zeidman P., Bibikov S., Sladky R., Frank Scharnowski F., Nikonorov A., Van De Ville D. (2017) OpenNF: An open-source Python/Matlab framework for real-time fMRI neurofeedback, OHBM, Vancouver, Canada.
