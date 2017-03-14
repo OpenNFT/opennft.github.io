@@ -102,8 +102,8 @@
       <file leaf-file-name="atom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/atom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -126,7 +126,11 @@
       <find>OpenNFT is</find>
       <find>OpenNFT</find>
       <find>toolbox</find>
+      <find>frmwork</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\OpenNFT_Workspace\OpenNFT\OpenNFT_Web</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -453,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/atom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding />
         </state>
       </provider>
