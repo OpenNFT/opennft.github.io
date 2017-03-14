@@ -6,8 +6,8 @@ relative_permalinks: false
 
 # Setup
 title:               OpenNFT
-tagline:             'Open Neurofeedback Training toolbox'
-description:         'OpenNFT is an open source toolbox for fMRI-based neurofeedback training.'
+tagline:             'Open Neurofeedback Training framework'
+description:         'OpenNFT is an open-source frmework for neurofeedback training based on real-time fMRI.'
 url:                 http://opennft.org
 baseurl:             ''
 paginate:            5
