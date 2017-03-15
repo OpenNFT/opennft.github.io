@@ -5,7 +5,7 @@ title: Installation
 
 ## System requirements
 
-The minimum system requirements for OpenNFT are 8 Gb RAM, i5 CPU with 2 and 4 free cores for two modes of the software using 3 and 4 Matlab processes, respectively, which needs to be compromised with the neurofeedback study design complexity, computational demands and the repetition time of the data acquisition.
+The minimum system requirements for OpenNFT are 8 Gb RAM, i5 CPU with 2 or 4 free cores for two modes of the software using 3 or 4 Matlab processes, respectively, which needs to be compromised with the neurofeedback study design complexity, computational demands and the repetition time of the data acquisition.
 
 The recommended system configuration is 16 Gb RAM and i7 CPU with 4 free cores. The maximum number of Matlab processes is defined by the end-user and is limited by the local workstation capabilities. For detailled installation instructions, see the  installation manual.
 
