@@ -13,7 +13,7 @@ The recommended system configuration is 16 Gb RAM and i7 CPU with 4 free cores. 
 
 
 
-## Required end user skills
+## Required end-user skills
 
 Our team address the variety of issues from installation procedures, to computational algorithms, neurofeedback project design, data analysis and software customizations for end-user needs.
 
