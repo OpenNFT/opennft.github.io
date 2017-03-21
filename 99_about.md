@@ -18,6 +18,8 @@ For software support, contact us at <opennft@gmail.com>.
 - For real-time signal processing using Kalman filter, cite Koush et al. 2012, NeuroImage
 - For sigmoidal function and SVM-based feedback, cite deBettencourt et al. 2015, NatNeuroscience
 - For feedback display based on PTB-3 functions, cite psychtoolbox.org
+- For Matlab, cite MathWorks, Natick, Massachusetts, United States.
+- For Python, cite https://www.python.org/
 
 
 ## Citations
