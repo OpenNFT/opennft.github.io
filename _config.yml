@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               OpenNFT
+tagline:             'Open Neurofeedback Training framework'
+description:         'OpenNFT is an open-source framework for neurofeedback training based on real-time fMRI.'
+url:                 http://opennft.org
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Yury Kush
+  url:               http://opennft.org
+  email:
+
+# Custom vars
+version: 1.0.0
