@@ -5,13 +5,15 @@ title: About
 
 ## Contact
 
-For software support, contact us at <opennft@gmail.com>.
+For software support contact us at <opennft@gmail.com>.
+
+
 
 
 ## References
 
 - For open-source OpenNFT code and applied real-time data processing and software features, cite Koush et al. 2017 (pending)
-- For SPM features, cite SPM12 (fil.ion.ucl.ac.uk/spm/)
+- For SPM features, cite SPM12 (<http://fil.ion.ucl.ac.uk/spm/>)
 - For DCM features, cite used SPM/DCM release.
 - For incremental GLM, cite Bagarinao et. al. 2003, NeuroImage  
 - For connectivity-based feedback using DCM, cite Koush et al. 2013, NeuroImage; Koush et al. 2015, Cerebral Cortex.
@@ -19,7 +21,7 @@ For software support, contact us at <opennft@gmail.com>.
 - For sigmoidal function and SVM-based feedback, cite deBettencourt et al. 2015, NatNeuroscience
 - For feedback display based on PTB-3 functions, cite psychtoolbox.org
 - For Matlab, cite MathWorks, Natick, Massachusetts, United States.
-- For Python, cite https://www.python.org/
+- For Python, cite <https://www.python.org/>
 
 
 ## Citations

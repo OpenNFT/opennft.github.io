@@ -49,12 +49,13 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1.8;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 18px;
+    font-size: 14px;
+
   }
 }
 
@@ -107,6 +108,11 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.container p, .container li {
+  text-align: justify;
+  margin-right: 2rem;
 }
 
 strong {
@@ -286,11 +292,11 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  /*max-width: 38rem;*/
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  1rem; /*auto;*/
-  margin-right: auto;
+  margin-right: 24rem;
 }
 
 
