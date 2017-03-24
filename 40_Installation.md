@@ -11,7 +11,7 @@ The recommended system configuration is 16 Gb RAM and i7 CPU with 4 free cores. 
 
 The software has been successfully tested on Microsoft Windows 7,8, and 10 and Apple macOS El Capitan and Sierra.
 
-**[OpenNFT Installation manual v1.0 - 2017-03-23](https://github.com/OpenNFT/opennft.github.io/blob/master/OpenNFT_Manual_2017-03-23.pdf)**
+**[OpenNFT Installation manual v1.0](https://github.com/OpenNFT/opennft.github.io/blob/master/OpenNFT_Manual_v1.0.pdf)**
 
 
 
