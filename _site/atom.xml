@@ -4,7 +4,7 @@
  <title>OpenNFT</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-24T15:45:25+01:00</updated>
+ <updated>2017-03-14T11:21:56+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yury Kush</name>
@@ -43,7 +43,7 @@
 &lt;ul&gt;
   &lt;li&gt;Swiss National Science Foundation (SNSF)&lt;/li&gt;
   &lt;li&gt;École Polytechnique Fédérale de Lausanne (EPFL)&lt;/li&gt;
-  &lt;li&gt;Samara State Aerospace University (SSAU)&lt;/li&gt;
+  &lt;li&gt;Samara University (SU)&lt;/li&gt;
   &lt;li&gt;Aligned Research Group&lt;/li&gt;
   &lt;li&gt;Wyss Center Geneva&lt;/li&gt;
   &lt;li&gt;University of Geneva&lt;/li&gt;
