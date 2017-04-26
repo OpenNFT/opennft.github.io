@@ -18,7 +18,7 @@ For software support contact us at <opennft@gmail.com>.
 - For incremental GLM, cite Bagarinao et. al. 2003, NeuroImage  
 - For connectivity-based feedback using DCM, cite Koush et al. 2013, NeuroImage; Koush et al. 2015, Cerebral Cortex.
 - For real-time signal processing using Kalman filter, cite Koush et al. 2012, NeuroImage
-- For SVM-based feedback, cite LaConte et al., 2007; LaConte 2011
+- For SVM-based feedback, cite LaConte et al. 2007, HBM; LaConte 2011, NeuroImage
 - For sigmoidal function, cite deBettencourt et al. 2015, NatNeuroscience
 - For feedback display based on PTB-3 functions, cite psychtoolbox.org
 - For Matlab, cite MathWorks, Natick, Massachusetts, United States.
