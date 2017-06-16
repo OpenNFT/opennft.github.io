@@ -12,7 +12,7 @@ For software support contact us at <opennft@gmail.com>.
 
 ## References
 
-- For open-source OpenNFT code and applied real-time data processing and software features, cite Koush et al. 2017 (pending)
+- For open-source OpenNFT code and applied real-time data processing and software features, cite Koush et al. 2017, Neuroimage (accepted)
 - For SPM features, cite SPM12 (<http://fil.ion.ucl.ac.uk/spm/>)
 - For DCM features, cite used SPM/DCM release.
 - For incremental GLM, cite Bagarinao et. al. 2003, NeuroImage  
