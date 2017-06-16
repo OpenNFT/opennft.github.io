@@ -27,5 +27,5 @@ For software support contact us at <opennft@gmail.com>.
 
 ## Citations
 
-1.	Koush Y., Ashburner J., Prilepin E., Sladky R., Zeidman P., Bibikov S., Frank Scharnowski F., Nikonorov A., Van De Ville D. (2017). OpenNFT: An open-source Python/Matlab framework for real-time fMRI neurofeedback training based on activity, connectivity and multivariate pattern analysis. (pending)
+1.	Koush Y., Ashburner J., Prilepin E., Sladky R., Zeidman P., Bibikov S., Frank Scharnowski F., Nikonorov A., Van De Ville D. (2017). OpenNFT: An open-source Python/Matlab framework for real-time fMRI neurofeedback training based on activity, connectivity and multivariate pattern analysis. Neuroimage (accepted)
 2.	Koush Y., Ashburner J., Prilepin E., Zeidman P., Bibikov S., Sladky R., Frank Scharnowski F., Nikonorov A., Van De Ville D. (2017) OpenNF: An open-source Python/Matlab framework for real-time fMRI neurofeedback, OHBM, Vancouver, Canada.
