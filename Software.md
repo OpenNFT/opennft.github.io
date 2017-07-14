@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+order: 90
 ---
 
 ## Download

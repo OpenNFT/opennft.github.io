@@ -27,6 +27,9 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+
+
 </head>
 
 
@@ -34,7 +37,9 @@
 
     <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked >
+
+
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -58,29 +63,29 @@
       
     
       
+    
+      
         
-          <a class="sidebar-nav-item" href="/40_Installation/">Installation</a>
+          <a class="sidebar-nav-item" href="/Installation/">Installation</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/80_courses/">Training Courses and Development</a>
+          <a class="sidebar-nav-item" href="/Courses/">Training Courses and Development</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/90_software/">Software</a>
+          <a class="sidebar-nav-item" href="/Software/">Software</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="/99_about/">About</a>
+          <a class="sidebar-nav-item" href="/About/">About</a>
         
-      
-    
       
     
 
@@ -125,6 +130,21 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
+
+    (function(document) {
+
+
+    var width = window.innerWidth /  parseFloat(getComputedStyle(document.querySelector('body'))['font-size']);
+    var checkbox = document.querySelector('#sidebar-checkbox');
+
+    if( width < 40 ) {
+      checkbox.checked = false;
+    }
+
+
+    })(document);
+
+
       /*(function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
@@ -139,7 +159,7 @@
 
           checkbox.checked = false;
         }, false);
-      })(document);*?
+      })(document);*/
     </script>
   </body>
 </html>

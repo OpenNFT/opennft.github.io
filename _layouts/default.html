@@ -31,6 +31,21 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
+
+    (function(document) {
+
+
+    var width = window.innerWidth /  parseFloat(getComputedStyle(document.querySelector('body'))['font-size']);
+    var checkbox = document.querySelector('#sidebar-checkbox');
+
+    if( width < 40 ) {
+      checkbox.checked = false;
+    }
+
+
+    })(document);
+
+
       /*(function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
@@ -45,7 +60,7 @@
 
           checkbox.checked = false;
         }, false);
-      })(document);*?
+      })(document);*/
     </script>
   </body>
 </html>

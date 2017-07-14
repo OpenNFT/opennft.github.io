@@ -60,10 +60,10 @@ h1, h2, h3, h4, h5, h6 {
  * regular page content.
  */
 
-/*.wrap {
+.wrap {
   position: relative;
   width: 100%;
-}*/
+}
 
 
 /*
@@ -153,14 +153,21 @@ h1, h2, h3, h4, h5, h6 {
   /*font-size: .875rem;*/ /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
-  /*-webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;*/
+  -webkit-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
 }
 @media (min-width: 30em) {
   .sidebar {
     /*font-size: .75rem;*/ /* 14px */
   }
 }
+
+@media screen and (max-width: 40em) {
+    .container {
+      margin-right: 0rem;
+    }
+}
+
 
 /* Sidebar content */
 .sidebar a {
@@ -214,8 +221,7 @@ a.sidebar-nav-item:focus {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   display:none;
-}
-  /*position: absolute;
+  position: absolute;
   top:  .8rem;
   left: 1rem;
   display: block;
@@ -263,7 +269,7 @@ a.sidebar-nav-item:focus {
   .sidebar-toggle {
     display: none;
   }
-}*/
+}
 
 /* Slide effect
  *

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Installation
+order: 10
 ---
 
 ## System requirements
