@@ -13,9 +13,9 @@ For software support contact us at <opennft@gmail.com>.
 
 ## References
 
-- For open-source OpenNFT code and applied real-time data processing and software features, cite [(Koush et al., 2017, Neuroimage 157:489-503)](http://www.sciencedirect.com/science/article/pii/S1053811917305050)
+- For open-source OpenNFT code and applied real-time data processing and software features, cite [Koush et al., 2017, Neuroimage 157:489-503](http://www.sciencedirect.com/science/article/pii/S1053811917305050)
 - For real-time fMRI data, cite [Koush et al., 2017, Data in Brief 14:344-347](http://www.sciencedirect.com/science/article/pii/S2352340917303517)
-- For SPM features, cite SPM12 (<http://fil.ion.ucl.ac.uk/spm/>)
+- For SPM features, cite SPM12 (http://fil.ion.ucl.ac.uk/spm/)
 - For DCM features, cite used SPM/DCM release.
 - For incremental GLM, cite Bagarinao et. al. 2003, NeuroImage  
 - For connectivity-based feedback using DCM, cite Koush et al. 2013, NeuroImage; Koush et al. 2015, Cerebral Cortex.
