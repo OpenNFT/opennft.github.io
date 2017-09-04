@@ -24,7 +24,7 @@ Download the [latest software version](https://github.com/OpenNFT/OpenNFT), [dem
 
 *Screenshot of the OpenNFT software in action showing the interface at the end of a neurofeedback run.* The intermittent feedback signal was estimated as the percent signal change scaled average between two ROIs (for details, see 'Feedback estimation' section). On the left panel, there is a quickset panel, the plot of head motion parameters, the plot of the raw time-series extracted from the two ROIs, the plot of the processed time-series and their dynamic scaling range, and the plot of the feedback signal in the scaled units ready to be converted into the feedback display. The blue, red and green backgrounds of the time-series plots denote baseline, neurofeedback regulation and neurofeedback presentation blocks. The right panel shows orthogonal views of the participant’s brain structural scan, the fMRI volume (opaque green area), the ROI masks (blue and green contours), and an activation map based on iGLM statistics.
 
-<img src="../public/img/koush2017_fig6.png" style="display:block; margin:6em auto 0em;" />
+<img src="../public/img/koush2017_fig6.png" style="display:block; margin:3em auto;" />
 
 *Screenshot of the window with the main parameter settings.*
 
