@@ -7,7 +7,7 @@ order: 20
 For concerns related to the OpenNFT educational courses, neurofeedback research, and applications, contact Yury Koush (<yurykoush@gmail.com>).
 Regular OpenNFT educational courses are to be organized.
 
-## Workshops and Educational courses
+## OpenNFT Workshops and Educational courses
 
 - Workshop at real-time functional imaging and neurofeedback conference ([rtFIN](http://rtfin2017.atr.jp/)), November 29, 2017, Nara, Japan
 
