@@ -4,8 +4,8 @@ title: Training Courses and Development
 order: 20
 ---
 
-For concerns related to the OpenNFT educational courses, neurofeedback research, and applications, contact Yury Koush (<yurykoush@gmail.com>).
-Regular OpenNFT educational courses are to be organized.
+For concerns related to OpenNFT educational courses, neurofeedback researches, and applications, contact Yury Koush (<yurykoush@gmail.com>).
+OpenNFT educational courses and funding initiatives are welcome.
 
 ## OpenNFT Workshops and Educational courses
 
