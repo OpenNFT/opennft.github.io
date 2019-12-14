@@ -5,7 +5,7 @@ order: 90
 ---
 
 ## Download
-Download the [latest software version](https://github.com/OpenNFT/OpenNFT), [demo data set](https://github.com/OpenNFT/OpenNFT_Demo/releases), and [video tutorials](https://github.com/OpenNFT/OpenNFT_VideoTutorials/releases) from our [GitHub page](https://github.com/OpenNFT).
+Download the [latest software version](https://github.com/OpenNFT/OpenNFT), [demo data set](https://github.com/OpenNFT/OpenNFT_Demo/releases), [video tutorials](https://github.com/OpenNFT/OpenNFT_VideoTutorials/releases), and [Educational Courses](https://github.com/OpenNFT/Courses/releases) from our [GitHub page](https://github.com/OpenNFT).
 
 ## Overview
 <img src="../public/img/koush2017_fig1.png" style="display:block; margin:6em auto 0em;" />
