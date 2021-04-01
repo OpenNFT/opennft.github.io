@@ -35,7 +35,7 @@ Create a list of nav links in the sidebar by assigning each Jekyll page the corr
 ```
 ---
 layout: page
-title: About
+title: References
 ---
 ```
 
