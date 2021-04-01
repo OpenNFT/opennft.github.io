@@ -12,9 +12,9 @@ url:                 http://opennft.org
 baseurl:             ''
 paginate:            5
 
-# About/contact
+# About/Contact
 author:
-  name:              Yury Kush
+  name:              Yury Koush
   url:               http://opennft.org
   email:
 
