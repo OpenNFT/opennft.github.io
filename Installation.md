@@ -4,7 +4,7 @@ title: Installation
 order: 10
 ---
 
-## Installation and Documentation
+## Documentation
 <https://opennft.readthedocs.io/en/latest>
 
 ## Required end-user skills
