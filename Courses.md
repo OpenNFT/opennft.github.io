@@ -7,6 +7,9 @@ order: 20
 For concerns related to OpenNFT educational courses, neurofeedback developments and applications, contact Yury Koush (<yurykoush@gmail.com>).
 
 ## OpenNFT Workshops and Educational courses
+- pyOpenNFT oral presentation at ([MICCAI](https://conferences.miccai.org/2025/en/)), September 2025, DAEJEON, Republic of Korea
+
+- Workshop at real-time functional imaging and neurofeedback conference ([rtFIN](https://rtfin2022.squarespace.com/)), October 2022, Yale University, USA
 
 - Software demonstration session at [OHBM 2020 annual meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958), June 2020, Online
 
